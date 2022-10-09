@@ -15,7 +15,7 @@ def app(update, context):
 
     url = f"https://haqq-t.api.manticore.team/{text.lower()}/proposals"
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) \
-                                                                         Chrome/73.0.3683.103 Safari/537.36',
+                                                                         Chrome/106.0.5249.103 Safari/537.36',
                'Accept': 'application/json'
                }
     data = get(url, headers=headers).json()
