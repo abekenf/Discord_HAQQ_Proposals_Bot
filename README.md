@@ -1,7 +1,4 @@
-# Discord_HAQQ_Proposals_Bot
-
 ИНСТРУКЦИЯ НАСТРОЙКИ БОТА 
-
 1. Добавьте сервер в дискорде
 2. Перейдите в раздел APP SETTINGS, на вкладку Advanced и переместите селектор Developer mode — режим разработчика активируется
 3. На вкладке Applications выберите New Application на портале разработчиков Discord (https://discord.com/developers/applications)
